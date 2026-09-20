@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tormod Liseth</h1>
 <h3 align="center">A fullstack developer with background from the music industry</h3>
 
-- 🔭 I’m currently working on [NUOTTI](https://github.com/sifterstudios/nuotti)
+- 🔭 I’m currently working on [NUOTTI](https://github.com/sifterstudios/nuotti) and [herfra](www.herfra.io)
 
 - 🌱 I’m currently learning **.net, flutter and unity**
 
